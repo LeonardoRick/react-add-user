@@ -11,3 +11,4 @@ It uses this concept in order to show React programming and serves as a example 
     * UseState
     * Fragments
     * module.css
+    * Portals (To show modals at the proper place on DOM tree)

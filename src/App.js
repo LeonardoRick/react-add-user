@@ -29,7 +29,7 @@ function App() {
         <>
             {errorInfo && (
                 <ErrorModal
-                    onOkay={hideError}
+                    onConfirm={hideError}
                     title={errorInfo.title}
                     message={errorInfo.message}
                 />
